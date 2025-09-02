@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Neonatox Blue</name>
+    <filename>neonatox-blue-1920x1080.png</filename>
+    <artist>cargabsj175</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Neonatox Gray</name>
+    <filename>neonatox-gray-1920x1080.png</filename>
+    <artist>cargabsj175</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Neonatox Green</name>
+    <filename>neonatox-green-1920x1080.png</filename>
+    <artist>cargabsj175</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Neonatox Orange</name>
+    <filename>neonatox-orange-1920x1080.png</filename>
+    <artist>cargabsj175</artist>
+  </wallpaper>
+  <wallpaper deleted="false">
+    <name>Neonatox Red</name>
+    <filename>neonatox-red-1920x1080.png</filename>
+    <artist>cargabsj175</artist>
+  </wallpaper>
+</wallpapers>
