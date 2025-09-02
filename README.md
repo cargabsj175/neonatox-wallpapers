@@ -77,21 +77,7 @@ rm -rf ~/.local/share/backgrounds/neonatox/
 
 ---
 
-## Estructura del proyecto
 
-neonatox-wallpapers/
-├── data/
-│   ├── neonatox-blue.svg
-│   ├── neonatox-gray.svg
-│   ├── neonatox-green.svg
-│   ├── neonatox-orange.svg
-│   └── neonatox-red.svg
-├── scripts/
-│   └── svg2png.py           # Script de conversión SVG → PNG
-├── meson.build              # Sistema de construcción con Meson
-└── README.md                # Este archivo
-
----
 
 ## Cómo personalizar
 
